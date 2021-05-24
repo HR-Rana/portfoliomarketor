@@ -145,7 +145,13 @@
 }
 
 
-@media (max-width: 550px){
+@media (max-width: 480px){
+	.menu {
+		width:90%;
+	}
+	.menu ul li a{
+		font-size:14
+	}
 	.rightsite{
 		width: 100%;
 	}
